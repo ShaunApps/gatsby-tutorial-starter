@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
+    title: `Gatsby.js Tutorial Template`,
   },
   plugins: [
     {
